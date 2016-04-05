@@ -8,3 +8,6 @@ I'm using this as an example for class
 
 
 I've added new text 
+
+
+hello
